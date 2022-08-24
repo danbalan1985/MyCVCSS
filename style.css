@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.padding-align{
+    padding-left: 20px;
+}
+.color-blue{
+    color:#005889;
+}
+.class-full-name{
+    font-size:32px;
+    font-weight: bold;
+}
+li > p{
+    font-weight: bold;
+}
